@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Memories_Deploy2/static/css/main.4e89baf1.chunk.css",
+    "main.js": "/Memories_Deploy2/static/js/main.e66abdf6.chunk.js",
+    "main.js.map": "/Memories_Deploy2/static/js/main.e66abdf6.chunk.js.map",
+    "runtime-main.js": "/Memories_Deploy2/static/js/runtime-main.049e0f59.js",
+    "runtime-main.js.map": "/Memories_Deploy2/static/js/runtime-main.049e0f59.js.map",
+    "static/js/2.8a522347.chunk.js": "/Memories_Deploy2/static/js/2.8a522347.chunk.js",
+    "static/js/2.8a522347.chunk.js.map": "/Memories_Deploy2/static/js/2.8a522347.chunk.js.map",
+    "index.html": "/Memories_Deploy2/index.html",
+    "precache-manifest.17dd7de101a3a8c8d01b374055a48922.js": "/Memories_Deploy2/precache-manifest.17dd7de101a3a8c8d01b374055a48922.js",
+    "service-worker.js": "/Memories_Deploy2/service-worker.js",
+    "static/css/main.4e89baf1.chunk.css.map": "/Memories_Deploy2/static/css/main.4e89baf1.chunk.css.map",
+    "static/js/2.8a522347.chunk.js.LICENSE.txt": "/Memories_Deploy2/static/js/2.8a522347.chunk.js.LICENSE.txt",
+    "static/js/main.e66abdf6.chunk.js.LICENSE.txt": "/Memories_Deploy2/static/js/main.e66abdf6.chunk.js.LICENSE.txt",
+    "static/media/memories.png": "/Memories_Deploy2/static/media/memories.5c0c63fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.049e0f59.js",
+    "static/js/2.8a522347.chunk.js",
+    "static/css/main.4e89baf1.chunk.css",
+    "static/js/main.e66abdf6.chunk.js"
+  ]
+}
